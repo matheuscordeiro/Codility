@@ -1,7 +1,5 @@
 #!/usr/local/bin/python3
 
-#!/usr/local/bin/python3
-
 """Task 
 A non-empty array A consisting of N integers is given. The consecutive elements of array A represent consecutive cars on a road.
 
@@ -36,4 +34,3 @@ def solution(A):
     if result > 1000000000:
         result = -1
     return result
-    
