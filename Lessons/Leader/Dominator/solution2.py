@@ -1,7 +1,5 @@
 #!/usr/bin/pthon3
 
-BLACKLYM6
-
 # O(N * log N)
 
 def solution(A):
